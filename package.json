@@ -1,0 +1,8 @@
+{
+  "name": "com.recep_yzc.poolsystem",
+  "displayName": "Pool System",
+  "version": "1.0.2",
+  "unity": "2021.3",
+  "description": "Example package for use with the Unity 2018.3 package manager.",
+  "type": "tool"
+}
