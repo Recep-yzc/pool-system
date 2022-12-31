@@ -41,7 +41,7 @@ namespace Manager
 
         #region private
 
-        private readonly Dictionary<Type, List<IPoolItem>> poolItemList = new();
+        public readonly Dictionary<Type, List<IPoolItem>> poolItemList = new();
 
         #endregion
 
